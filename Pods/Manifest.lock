@@ -1,0 +1,16 @@
+PODS:
+  - BonsaiController (6.0.0)
+
+DEPENDENCIES:
+  - BonsaiController
+
+SPEC REPOS:
+  trunk:
+    - BonsaiController
+
+SPEC CHECKSUMS:
+  BonsaiController: 63410fc39bc5b3a9df5b329dbc848b6b27edf663
+
+PODFILE CHECKSUM: 8d80bbba62836cf69fab7ab88199eb498c314f9e
+
+COCOAPODS: 1.9.1
